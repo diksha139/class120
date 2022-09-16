@@ -1,1 +1,2 @@
-# PRO-C120-Reference-Code
+>>>pip install nltk
+pip install numpy
